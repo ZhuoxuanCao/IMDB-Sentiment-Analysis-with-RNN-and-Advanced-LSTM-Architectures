@@ -66,7 +66,6 @@ For tasks requiring extensive contextual information capture and high accuracy, 
 
 
 ## References
-
-1. [LSTM and Recurrent Neural Networks](https://link-to-paper)
-2. [Convolutional Neural Networks in NLP](https://link-to-paper)
+[1] Qianzi Shen, Zijian Wang, Yaoru Sun. Sentiment Analysis of Movie Reviews Based on CNN-BLSTM.2nd International Conference on Intelligence Science (ICIS), Oct 2017, Shanghai, China. pp.164-171,ff10.1007/978-3-319-68121-4_17ff. ffhal-01820937f
+([https://link-to-paper](https://link.springer.com/chapter/10.1007/978-3-319-68121-4_17))
 
