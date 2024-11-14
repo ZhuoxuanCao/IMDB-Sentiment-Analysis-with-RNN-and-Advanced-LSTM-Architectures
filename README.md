@@ -2,7 +2,6 @@
 
 以下是一个适合您项目的完整 README 文件，重点介绍多重 LSTM 网络架构，涵盖项目背景、架构说明、实验结果和使用方法：
 
-```markdown
 # IMDB Sentiment Analysis with RNN and Multi-Layer LSTM Architectures
 
 This project explores sentiment analysis on the IMDB movie review dataset using various recurrent neural network (RNN) architectures, with a focus on multi-layer LSTM models. We investigate the performance of single-layer RNNs, unidirectional and bidirectional LSTMs, and combinations of convolutional layers (CNNs) with multi-layer LSTMs to improve accuracy and generalization.
