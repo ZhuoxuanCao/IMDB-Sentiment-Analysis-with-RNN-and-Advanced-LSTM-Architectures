@@ -1,6 +1,4 @@
-# IMDB-Sentiment-Analysis-with-RNN-and-Advanced-LSTM-Architectures
 
-以下是一个适合您项目的完整 README 文件，重点介绍多重 LSTM 网络架构，涵盖项目背景、架构说明、实验结果和使用方法：
 
 # IMDB Sentiment Analysis with RNN and Multi-Layer LSTM Architectures
 
